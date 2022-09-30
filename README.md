@@ -1,5 +1,6 @@
 # 💫 About Me:
-🧑🏼‍💻 Student, programmer, ambitious <br>engineering student, programmer #FULL_STACK<br>with a passion for programming.<br><br>🌱 I’m currently learning JS, Python<br>🤝 I’m looking to collaborate on
+🧑🏼‍💻 Student, programmer, ambitious <br>engineering student, programmer #FULL_STACK<br>.
+with a passion for programming.<br><br>🌱 I’m currently learning JS, Python<br>🤝 I’m looking to collaborate on
 
 
 # 💻 Tech Stack:
